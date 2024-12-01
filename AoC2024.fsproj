@@ -9,4 +9,10 @@
         <Compile Include="Program.fs"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Include="Day01\Part1.fs" />
+      <Content Include="Day01\input.txt" />
+      <Content Include="Day01\test_input.txt" />
+    </ItemGroup>
+
 </Project>

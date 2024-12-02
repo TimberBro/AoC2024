@@ -1,4 +1,4 @@
-module AoC2024.Day01.Part1
+module AoC2024.Day01.Day01
 
 open System
 open System.IO

@@ -10,9 +10,15 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Compile Include="Day01\Part1.fs" />
+      <Compile Include="Day01\Day01.fs" />
       <Content Include="Day01\input.txt" />
       <Content Include="Day01\test_input.txt" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="Day02\test_input.txt" />
+      <Compile Include="Day02\Day02.fs" />
+      <Content Include="Day02\input.txt" />
     </ItemGroup>
 
 </Project>
